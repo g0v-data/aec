@@ -54,7 +54,7 @@
       "value" : "0.062"
    },
    {
-      "localtime" : "2013-8-12T14:50:00+08",
+      "localtime" : "2013-8-12T14:55:00+08",
       "station" : "石門",
       "station_en" : "SHIHMAN",
       "value" : "0.054"
@@ -174,7 +174,7 @@
       "value" : "0.066"
    },
    {
-      "localtime" : "2013-8-12T14:50:00+08",
+      "localtime" : "2013-8-12T14:55:00+08",
       "station" : "滿州",
       "station_en" : "MANJHOU",
       "value" : "0.052"
@@ -192,7 +192,7 @@
       "value" : "0.048"
    },
    {
-      "localtime" : "2013-8-12T14:50:00+08",
+      "localtime" : "2013-8-12T14:55:00+08",
       "station" : "澳底",
       "station_en" : "AODI",
       "value" : "0.056"
@@ -204,7 +204,7 @@
       "value" : "0.052"
    },
    {
-      "localtime" : "2013-8-12T14:50:00+08",
+      "localtime" : "2013-8-12T14:55:00+08",
       "station" : "龍門",
       "station_en" : "LUNGMEN",
       "value" : "0.060"
